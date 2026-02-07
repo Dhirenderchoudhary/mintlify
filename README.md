@@ -4,7 +4,7 @@ This project is a **desktop-first recreation of the Mintlify documentation-style
 The focus was on **layout accuracy, content structure, and readability**, closely matching the original Mintlify front page.
 
 🔗 **Live Site:**  
-https://dhirenderchoudhary.github.io/mintlify/
+https://mintlifylandingpagechai.netlify.app
 
 📂 **GitHub Repo:**  
 https://github.com/Dhirenderchoudhary/mintlify
